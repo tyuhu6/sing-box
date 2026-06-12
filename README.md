@@ -44,7 +44,7 @@
 # 文档
 
 安装及使用：https://github.com/tyuhu6/sing-box/wiki
-https://233boy.com/sing-box/sing-box-script/
+
 
 # 帮助
 
